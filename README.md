@@ -10,4 +10,3 @@ By following this video you will know how to create and get ```Facebook App ID``
 
 ## Source code in ```Java``` --> https://goo.gl/b6VKHg
 
-## License
